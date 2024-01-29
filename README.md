@@ -4,5 +4,8 @@ New changes in the feature-branch: ryan's edit. Updated line: Exercise 6 - Kevin
 
 ryan ebro update
 
+<<<<<<< HEAD
 - KEVIN
 - ORTEGA
+=======
+>>>>>>> origin/main
